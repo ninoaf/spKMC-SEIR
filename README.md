@@ -1,4 +1,4 @@
-# spKMC
+# spKMC-SEIR
 
 Work in progress:
 by Nino Antulov-Fantulin, Lucas Böttcher, Vaiva Vasilauskaite, and Dirk Helbing, 2021.
