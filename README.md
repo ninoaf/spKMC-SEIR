@@ -1,7 +1,6 @@
 # spKMC-SEIR
 
-Work in progress:
-by Nino Antulov-Fantulin, Lucas Böttcher, Vaiva Vasilauskaite, and Dirk Helbing, 2021.
+Vasiliauskaite, Vaiva, Nino Antulov-Fantulin, and Dirk Helbing. "Some Challenges in Monitoring Epidemics." arXiv preprint arXiv:2105.08384 (2021).
 
 Extension of previous work:
 Böttcher, Lucas, and Nino Antulov-Fantulin. "Unifying continuous, discrete, and hybrid susceptible-infected-recovered processes on networks." Physical Review Research 2.3 (2020): 033121.
